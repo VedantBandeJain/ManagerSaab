@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "df6ef92e-ecfd-400f-a585-32376f0f9d5c",
+      "name": "asdf",
+      "email": "adsf@gmail"
+    },
+    {
+      "id": "9d8131d0-2817-44d0-89b4-4e74d6aa32ab",
+      "name": "fadsf",
+      "email": "dasf@ujafsh"
+    },
+    {
+      "id": "27832285-06bd-412a-8d96-3a65b059e7f1",
+      "name": "vedantbande",
+      "email": "vedantbande2002@gmail.com"
+    },
+    {
+      "id": "2230987f-9ba9-4db5-ba3f-a6e0c0a00d03",
+      "name": "VEDANTbabab",
+      "email": "vedantbande2002@gmail.com"
+    }
+  ]
+}
